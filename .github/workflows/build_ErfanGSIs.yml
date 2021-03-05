@@ -1,4 +1,4 @@
-name: build_ErfanGSIs
+name: build_ErfanGSIs～Ronald
 
 on:
 #  release:
@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.3.2/miui_LAURUS_21.3.2_9c26e103df_10.0.zip
+  ROM_URL: https://hugeota.d.miui.com/21.3.3/miui_LAURUS_21.3.3_863fef3801_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
